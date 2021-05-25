@@ -1,0 +1,22 @@
+{
+    "fiis": [
+        { "ticker": "ARRI11", "amount": 0 },
+        { "ticker": "BARI11", "amount": 0 },
+        { "ticker": "BCRI11", "amount": 0 },
+        { "ticker": "CPTS11", "amount": 0 },
+        { "ticker": "CVBI11", "amount": 0 },
+        { "ticker": "FEXC11", "amount": 0 },
+        { "ticker": "GSFI11", "amount": 0 },
+        { "ticker": "HABT11", "amount": 0 },
+        { "ticker": "HCTR11", "amount": 0 },
+        { "ticker": "IRDM11", "amount": 0 },
+        { "ticker": "KNIP11", "amount": 0 },
+        { "ticker": "PORD11", "amount": 0 },
+        { "ticker": "RECR11", "amount": 0 },
+        { "ticker": "SPTW11", "amount": 0 },
+        { "ticker": "TGAR11", "amount": 0 },
+        { "ticker": "XPSF11", "amount": 0 }
+    ],
+    "acoesbr": [{}, {}],
+    "acoesusa": [{}, {}]
+}
