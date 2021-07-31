@@ -24,5 +24,13 @@
     "question": "What command do you use to output data to the screen?",
     "options": ["Cin", "Count>>", "Cout", "Output>>"],
     "answer_index": 2
+  },
+  {
+    "id": 5,
+    "question":
+        "Cheiro de linguiça?",
+    "options": ["Sim", "Não", "Talvez", "Quase"],
+    "answer_index": 1
+
   }
 ]
