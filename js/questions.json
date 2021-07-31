@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question":
-        "Flutter is an open-source UI software development kit created by ______",
+        "Flutter é bom bom?",
     "options": ["Apple", "Google", "Facebook", "Microsoft"],
     "answer_index": 1
 
